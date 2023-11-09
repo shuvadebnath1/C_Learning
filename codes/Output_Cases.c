@@ -3,7 +3,7 @@
 int main() {
     
     int age = 17;
-    float pi = 3.14;
+    float pi = 3.1416;
     char star = '*';
     
     //for printing values of int with something

@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//Its a area calculator
 int main() {
     float r ;
     float pi =3.1416;

@@ -1,5 +1,6 @@
 #include<stdio.h>
 //Its a area calculator
+//It can clculate area of a circle
 int main() {
     float r ;
     float pi =3.1416;
